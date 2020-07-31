@@ -1,1 +1,1 @@
-# AI-in-Healthcare
+# AI-for-Healthcare
