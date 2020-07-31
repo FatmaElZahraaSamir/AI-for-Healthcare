@@ -1,4 +1,4 @@
-# use deep learning to create two classification algorithms
+#classification algorithms
 one for the detection of brain bleeds on head CT images, and one for the detection of aortic dissection on chest x-ray images
 
 ### Dataset
